@@ -1,0 +1,9 @@
+.wrangler/
+node_modules/
+worker/.wrangler/
+*.log
+/test-home.png
+/test-details.png
+/nowe-ikony.png
+/test-*.png
+icons-preview.html

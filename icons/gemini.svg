@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img">
+  <defs>
+    <linearGradient id="spark" x1="12" y1="8" x2="116" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#14C8BE"/>
+      <stop offset="48%" stop-color="#7357F5"/>
+      <stop offset="100%" stop-color="#FF5B7A"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="64" fill="#ffffff"/>
+  <path fill="url(#spark)" d="M64 14
+    C70 50 86 58 118 64
+    C86 70 70 86 64 114
+    C58 86 42 70 10 64
+    C42 58 58 50 64 14 Z"/>
+  <path fill="url(#spark)" d="M100 18
+    C102 28 108 32 118 34
+    C108 36 102 42 100 50
+    C98 42 92 36 82 34
+    C92 32 98 28 100 18 Z"/>
+  <path fill="url(#spark)" opacity="0.92" d="M30 86
+    C31.4 93 36 96 43 97.4
+    C36 98.8 31.4 103.4 30 110
+    C28.6 103.4 24 98.8 17 97.4
+    C24 96 28.6 93 30 86 Z"/>
+
+</svg>

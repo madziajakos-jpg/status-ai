@@ -1,0 +1,15 @@
+name = "status-ai"
+main = "src/index.js"
+compatibility_date = "2025-11-01"
+account_id = "371b5d88e717869b8263ab7f838c4b3b"
+workers_dev = true
+
+[ai]
+binding = "AI"
+
+[[kv_namespaces]]
+binding = "STATUS_AI_STATE"
+id = "7c43af52c50a48eba83412182b06e2bd"
+
+[triggers]
+crons = ["*/10 * * * *"]
